@@ -14,4 +14,10 @@
             };
         }
     }
+
+    public class ParentMovieListing
+    {
+        public ListOfMovies moviesList;
+        public Movie perMovie;
+    }
 }

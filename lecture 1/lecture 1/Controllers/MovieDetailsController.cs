@@ -7,21 +7,31 @@ namespace lecture_1.Controllers
     {
         public IActionResult ListMovies()
         {
-            ListOfMovies moviesList = new ListOfMovies();
-            return View("ListMovies", moviesList);
+            ListOfMovies _moviesList = new ListOfMovies();
+            ParentMovieListing parentMovie = new ParentMovieListing
+            {
+                moviesList = _moviesList,
+                perMovie = null
+            };
+            return View("ListMovies", parentMovie);
         }
 
+        [Route("MovieDetails")]
         public IActionResult MovieDetails(string? srMovieName)
         {
-            return RedirectToAction("ListMovies", "MovieDetails");//we will return back to list movies action
-
             ListOfMovies moviesList = new ListOfMovies();
-            var vrSelected = moviesList.MoviesList.Where(pr => pr.MovieName == srMovieName);
+            var vrSelected = moviesList.MoviesList.Where(pr => pr.MovieName == srMovieName).FirstOrDefault();
 
-            if(!vrSelected.Any())
+            if (vrSelected == null)
                 return RedirectToAction("ListMovies", "MovieDetails");
 
-            return View();
+            ParentMovieListing parentMovie = new ParentMovieListing
+            {
+                moviesList = null,
+                perMovie = vrSelected
+            };
+
+            return View("ListMovies", parentMovie);
         }
     }
 }

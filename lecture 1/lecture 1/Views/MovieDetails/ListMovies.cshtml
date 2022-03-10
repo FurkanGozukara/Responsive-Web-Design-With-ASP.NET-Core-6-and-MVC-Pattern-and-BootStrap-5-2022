@@ -4,7 +4,7 @@
 @{
 }
 
-@model lecture_1.Models.ListOfMovies//model is for defining the model type
+@model lecture_1.Models.ParentMovieListing//model is for defining the model type
 
 <style>
     table {
@@ -18,13 +18,13 @@
 
 
 @{
-    if (@Model != null)//Model equal to the object sent from controller
+    if (@Model?.moviesList != null)//Model equal to the object sent from controller
     {
         <table>
-            @foreach (var perMovie in @Model.MoviesList)
+            @foreach (var perMovie in @Model.moviesList.MoviesList)
             {
                 <tr>
-                    <td>Movie Name: @perMovie.MovieName</td>
+                    <td>Movie Name: <a href="MovieDetails?srMovieName=@perMovie.MovieName">@perMovie.MovieName</a> </td>
                 </tr>
             }
         </table>
@@ -32,18 +32,15 @@
 }
 
 @{
-    if (@Model != null)//Model equal to the object sent from controller
+    if (@Model?.perMovie != null)//Model equal to the object sent from controller
     {
         <table>
-            @foreach (var perMovie in @Model.MoviesList)
-            {
                 <tr>
-                    <td>Movie Id: @perMovie.MovieId</td>
-                    <td>Movie Name: @perMovie.MovieName</td>
-                    <td>Movie Genre: @perMovie.MovieGenre</td>
-                    <td>Movie Year: @perMovie.MovieYear</td>
+                    <td>Movie Id: @Model.perMovie.MovieId</td>
+                    <td>Movie Name: @Model.perMovie.MovieName</td>
+                    <td>Movie Genre: @Model.perMovie.MovieGenre</td>
+                    <td>Movie Year: @Model.perMovie.MovieYear</td>
                 </tr>
-            }
         </table>
     }
 }
