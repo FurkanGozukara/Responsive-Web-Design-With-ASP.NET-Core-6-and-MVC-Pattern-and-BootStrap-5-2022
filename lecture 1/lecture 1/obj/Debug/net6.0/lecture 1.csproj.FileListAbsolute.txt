@@ -1,0 +1,26 @@
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\appsettings.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\lecture 1.staticwebassets.runtime.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\lecture 1.exe
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\lecture 1.deps.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\lecture 1.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\lecture 1.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\bin\Debug\net6.0\lecture 1.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.csproj.AssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.RazorAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.RazorAssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\scopedcss\bundle\lecture 1.styles.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\scopedcss\projectbundle\lecture 1.bundle.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\refint\lecture 1.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\lecture 1.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 1\lecture 1\obj\Debug\net6.0\ref\lecture 1.dll

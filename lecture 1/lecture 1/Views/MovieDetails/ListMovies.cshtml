@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model lecture_1.Models.ListOfMovies//model is for defining the model type
+
+<style>
+    table {
+        border-width: 1px;
+    }
+
+    td {
+        padding: 10px;
+    }
+</style>
+
+
+@{
+    if (@Model != null)//Model equal to the object sent from controller
+    {
+        <table>
+            @foreach (var perMovie in @Model.MoviesList)
+            {
+                <tr>
+                    <td>Movie Name: @perMovie.MovieName</td>
+                </tr>
+            }
+        </table>
+    }
+}
+
+@{
+    if (@Model != null)//Model equal to the object sent from controller
+    {
+        <table>
+            @foreach (var perMovie in @Model.MoviesList)
+            {
+                <tr>
+                    <td>Movie Id: @perMovie.MovieId</td>
+                    <td>Movie Name: @perMovie.MovieName</td>
+                    <td>Movie Genre: @perMovie.MovieGenre</td>
+                    <td>Movie Year: @perMovie.MovieYear</td>
+                </tr>
+            }
+        </table>
+    }
+}
