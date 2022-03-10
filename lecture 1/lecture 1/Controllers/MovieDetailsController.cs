@@ -16,13 +16,19 @@ namespace lecture_1.Controllers
             return View("ListMovies", parentMovie);
         }
 
-        [Route("MovieDetails")]
+        [Route("MovieDetails/{srMovieName?}")]
         public IActionResult MovieDetails(string? srMovieName)
         {
             ListOfMovies moviesList = new ListOfMovies();
+            if (!string.IsNullOrEmpty(srMovieName))
+                srMovieName = srMovieName.Replace("_", " ");
+
             var vrSelected = moviesList.MoviesList.Where(pr => pr.MovieName == srMovieName).FirstOrDefault();
 
-            if (vrSelected == null)
+            if (vrSelected == null)//this will keep same url
+                return View("ListMovies", new ParentMovieListing { moviesList = new ListOfMovies(), perMovie = null });
+
+            if (vrSelected == null)//this will change url
                 return RedirectToAction("ListMovies", "MovieDetails");
 
             ParentMovieListing parentMovie = new ParentMovieListing

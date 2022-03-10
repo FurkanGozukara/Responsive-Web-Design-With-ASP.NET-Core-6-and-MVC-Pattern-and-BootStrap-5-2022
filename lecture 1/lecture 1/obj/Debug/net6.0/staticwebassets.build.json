@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bN78Spc3GYZpkMatvwvoVanJLjcoZ9etZMwfU8GKDOg=",
+  "Hash": "lOWNE30iNoduzyfBe3mrsm7cgmP+qnxaeXgH+yldOVU=",
   "Source": "lecture 1",
   "BasePath": "_content/lecture 1",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Furkan Gözükara\\Desktop\\2022 mvc\\lecture 1\\lecture 1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lecture 1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Furkan Gözükara\\Desktop\\2022 mvc\\lecture 1\\lecture 1\\wwwroot\\css\\movielist.css",
+      "SourceId": "lecture 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Furkan Gözükara\\Desktop\\2022 mvc\\lecture 1\\lecture 1\\wwwroot\\",
+      "BasePath": "_content/lecture 1",
+      "RelativePath": "css/movielist.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\movielist.css"
     },
     {
       "Identity": "C:\\Users\\Furkan Gözükara\\Desktop\\2022 mvc\\lecture 1\\lecture 1\\wwwroot\\css\\site.css",

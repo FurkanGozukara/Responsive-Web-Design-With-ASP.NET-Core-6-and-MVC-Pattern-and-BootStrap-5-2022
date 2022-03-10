@@ -6,15 +6,7 @@
 
 @model lecture_1.Models.ParentMovieListing//model is for defining the model type
 
-<style>
-    table {
-        border-width: 1px;
-    }
 
-    td {
-        padding: 10px;
-    }
-</style>
 
 
 @{
@@ -24,7 +16,7 @@
             @foreach (var perMovie in @Model.moviesList.MoviesList)
             {
                 <tr>
-                    <td>Movie Name: <a href="MovieDetails?srMovieName=@perMovie.MovieName">@perMovie.MovieName</a> </td>
+                    <td>Movie Name: <a href="MovieDetails/@perMovie.MovieName.Replace(" ","_")">@perMovie.MovieName</a> </td>
                 </tr>
             }
         </table>
