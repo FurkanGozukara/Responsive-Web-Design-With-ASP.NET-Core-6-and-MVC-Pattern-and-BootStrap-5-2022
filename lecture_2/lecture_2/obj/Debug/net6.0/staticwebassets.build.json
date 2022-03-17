@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VtgDj55XkSWE8OTNUtLzlbnzMEO8k+9cML7+APsKNRA=",
+  "Hash": "nstpZITs/GyzaHbF6iWceovYvKKTB4/JooUQNrZoUIs=",
   "Source": "lecture_2",
   "BasePath": "_content/lecture_2",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Furkan Gözükara\\Desktop\\2022 mvc\\lecture_2\\lecture_2\\wwwroot\\text\\a.txt",
+      "SourceId": "lecture_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Furkan Gözükara\\Desktop\\2022 mvc\\lecture_2\\lecture_2\\wwwroot\\",
+      "BasePath": "_content/lecture_2",
+      "RelativePath": "text/a.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\text\\a.txt"
     }
   ]
 }

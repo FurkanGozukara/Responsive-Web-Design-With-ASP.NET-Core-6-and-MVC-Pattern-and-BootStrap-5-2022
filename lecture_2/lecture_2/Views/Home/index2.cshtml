@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<style>
+
+td{
+    border-style:solid;
+    border-width:1px;
+}
+ </style>
+
+@{
+    ViewData["Title"] = "TemplatedDelegate";
+
+    Func<dynamic, object> movieTemplate = @<div>
+        <table>
+            <tr>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @item.ReleaseDate.ToShortDateString()
+                </td>
+            </tr>
+        </table>
+    </div>;
+
+    string tempMethod(Movie mymovie)
+    {
+        return $"<div>{mymovie.Title} [{@mymovie.ReleaseDate.ToShortDateString()}]</div>";
+    }
+
+    List<Movie> movies = new List<Movie>();
+    movies.Add(new Movie() { Title = "The Godfather", ReleaseDate = new DateTime(1972, 3, 24) });
+    movies.Add(new Movie() { Title = "Forrest Gump", ReleaseDate = new DateTime(1994, 7, 6) });
+    movies.Add(new Movie() { Title = "Fight Club", ReleaseDate = new DateTime(1999, 10, 15) });
+
+}
+
+@foreach (var movie in movies)
+{
+    @movieTemplate(movie)
+}
+@foreach (var movie in movies)
+{
+    @Html.Raw(@tempMethod(movie))
+    ;
+}
+
+<br />
+<br />
+@foreach (var movie in movies)
+{
+    @movieTemplate(movie)
+}
