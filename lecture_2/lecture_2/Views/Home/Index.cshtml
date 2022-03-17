@@ -1,0 +1,238 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@using lecture_2.Models;
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@*<p>Hello, world - my name is <%= name %> and the current date is: <%= DateTime.Now.ToString() %></p>*@
+
+@{
+    var name = "test";
+}
+
+<p>Hello, world - my name is @name and the current date is: @DateTime.Now.ToString()</p>
+
+@*<%
+    if(Request.QueryString["test"] != null)
+    {
+    %>
+    <p>Lots of markup here...</p>
+    <p>Test value: <b><%= Request.QueryString["test"] %></b></p>
+    <p>And even more here...</p>
+    <%
+    }
+    %>*@
+
+@{
+    var msg = "<b>Hello, world!</b>";
+}
+<p>@msg</p>
+<p>@Html.Raw(msg)</p>
+
+
+@{
+    var name2 = "John Doe";
+}
+Hello, @(name2.Substring(0,4)). Your age is: <b>@(37 + 5).</b>
+
+
+@{
+    var sum = 32 + 10;
+    var greeting = "Hello, world!";
+    var text = "";
+    for (int i = 0; i < 3; i++)
+    {
+        text += greeting + " The result is: " + sum + "\n";
+    }
+}
+
+<h2>CodeBlocks</h2>
+Text: @text
+
+<div>new content</div>
+
+@{
+    var helloWorld = "This is a code block...";
+
+    <p>This is a tag with plain text and <b>markup</b> inside of it...</p>
+
+    @:This is plain text!
+
+
+    <br>
+    <br>
+    <text>
+        This is plain text as well, and we can
+        even span multiple lines, if needed!
+    </text>
+
+
+}
+
+@*
+    Here's a Razor server-side comment
+    It won't be rendered to the browser
+    It can span multiple lines
+*@
+
+<!-- You will not be able to see this text. -->
+@{
+    @*
+        Here's a Razor server-side comment
+    *@
+
+    // C# style single-line comment
+
+    /*
+    C# style multiline comment
+            It can span multiple lines
+                    */
+}
+
+
+@{
+    string helloWorldMsg = "Good day";
+    if (DateTime.Now.Hour > 17)
+    {
+        helloWorldMsg = "Good evening";
+    }
+    helloWorldMsg += ", world!";
+    helloWorldMsg = helloWorldMsg.ToUpper();
+}
+
+<div>
+    @helloWorldMsg
+</div>
+
+
+
+@if (DateTime.Now.Year == 2022)
+{
+    <span>The year 2022 has finally arrived!</span>
+}
+
+@if (DateTime.Now.Year >= 2042)
+{
+    <span>The year 2042 has finally arrived!</span>
+}
+else
+{
+    <span>We're still waiting for the year of 2042...</span>
+}
+
+@{
+    List<string> names = new List<string>()
+    {
+        "John Doe",
+        "Jane Doe",
+        "Joe Doe",
+        "Jenna Doe",
+        "Doggy Doe"
+    };
+}
+
+<ul>
+    @for (int i = 0; i < names.Count; i++)
+    {
+        <li>@names[i]</li>
+    }
+</ul>
+
+<ol>
+    @foreach (var vr in names)
+    {
+        <li>@vr</li>
+    }
+</ol>
+
+<style>
+
+    li {
+        padding: 15px;
+    }
+
+</style>
+
+<ul>
+    @{
+        int counter = 0;
+
+        while (counter < names.Count)
+        {
+            <li>@names[counter++]</li>
+        }
+
+
+    }
+</ul>
+
+<ul>
+    @{
+        counter = 0;
+    }
+    @do
+    {
+        <li>@names[counter++]</li>
+    } while (counter < names.Count);
+</ul>
+
+
+<ul>
+    @for (int i = 0; i < names.Count; i++)
+    {
+        <li>@names[i]</li>
+        @if (i >= 2)
+        {
+            <li>...and so on</li>
+            break;
+        }
+    }
+</ul>
+
+
+@switch (DateTime.Now.DayOfWeek)
+{
+    case DayOfWeek.Monday:
+        <span>Uh-oh...</span>
+        break;
+    case DayOfWeek.Friday:
+        <span>Weekend coming up!</span>
+        break;
+    case DayOfWeek.Saturday:
+    case DayOfWeek.Sunday:
+        <span>Finally weekend!</span>
+        break;
+    case DayOfWeek.Thursday:
+        <span>awesome day</span>
+        break;
+    default:
+        <span>Nothing special about this day...</span>
+        break;
+}
+
+ 
+
+
+@{
+    user tempuser = new user { Birthday = new DateTime(2000, 1, 1), FirstName = "test", LastName = "gg" };
+}
+
+
+@{
+        void RenderUserInfo(user myUser)
+        {
+    <div class="user-info">
+        @myUser.LastName, @myUser.FirstName [@myUser.Birthday.ToShortDateString()]
+    </div>
+        }
+
+            RenderUserInfo(tempuser);
+}
+
+ 
