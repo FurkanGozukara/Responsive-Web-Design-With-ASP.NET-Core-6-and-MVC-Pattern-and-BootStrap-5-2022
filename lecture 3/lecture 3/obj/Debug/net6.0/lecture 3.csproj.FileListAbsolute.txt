@@ -1,0 +1,28 @@
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\appsettings.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\lecture 3.staticwebassets.runtime.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\lecture 3.exe
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\lecture 3.deps.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\lecture 3.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\lecture 3.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\lecture 3.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.csproj.AssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.RazorAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.RazorAssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\scopedcss\bundle\lecture 3.styles.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\scopedcss\projectbundle\lecture 3.bundle.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\refint\lecture 3.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\ref\lecture 3.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture 3\lecture 3\obj\Debug\net6.0\lecture 3.csproj.CopyComplete

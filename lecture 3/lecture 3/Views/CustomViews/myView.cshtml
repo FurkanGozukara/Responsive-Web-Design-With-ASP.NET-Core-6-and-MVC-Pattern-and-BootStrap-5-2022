@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+ 
+
+my view
+
+<br />
+@ViewBag.MovieName
+<br />
+@ViewBag.Year
+<br />
+@ViewBag.Test @*this will print nothing*@
+
+@if (ViewData.ContainsKey("myList"))
+    @if (ViewData["myList"] != null)
+        @foreach (var item in (List<int>)ViewData["myList"])
+        {
+            @item.ToString("N0")
+            ;
+            <br />
+        }
+
+<br />
+@TempData["foo"]
+
+@Context.Session.GetString("a")
