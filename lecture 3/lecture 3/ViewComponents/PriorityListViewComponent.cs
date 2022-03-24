@@ -12,8 +12,10 @@ namespace lecture_3
         }
         private async Task<List<int>> GetItemsAsync(int maxPriority, bool isDone)
         {
-            return await Task.FromResult(
+            System.Threading.Thread.Sleep(10000);
 
+            return await Task.FromResult(
+            
                  new List<int> { DateTime.Now.Minute, DateTime.Now.Millisecond }
 
                 );

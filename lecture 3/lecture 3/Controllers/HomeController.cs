@@ -52,5 +52,10 @@ namespace lecture_3.Controllers
             // use ViewData/ViewBag (I can't believe I said that but I will leave it for the moment)
             return View("/Views/CustomViews/myView.cshtml");
         }
+
+        public IActionResult PriorityList()
+        {
+            return ViewComponent("PriorityList");
+        }
     }
 }
