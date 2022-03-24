@@ -27,3 +27,9 @@ my view
 @TempData["foo"]
 
 @Context.Session.GetString("a")
+
+<hr />
+
+<div>
+    @await Component.InvokeAsync("PriorityList", new { maxPriority = 4, isDone = true })
+</div>
