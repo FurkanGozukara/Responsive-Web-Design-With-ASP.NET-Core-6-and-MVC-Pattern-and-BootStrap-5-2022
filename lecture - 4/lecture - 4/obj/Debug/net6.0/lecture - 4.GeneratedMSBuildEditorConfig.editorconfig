@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Furkan Gözükara/Desktop/2022 mvc/lecture - 4/lecture - 4/Views/Forms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Furkan Gözükara/Desktop/2022 mvc/lecture - 4/lecture - 4/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
