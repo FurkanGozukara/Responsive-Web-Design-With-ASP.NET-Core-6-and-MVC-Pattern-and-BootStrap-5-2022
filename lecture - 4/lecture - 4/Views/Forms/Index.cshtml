@@ -7,13 +7,28 @@
 @model lecture___4.DbModels.TblUser
 
 <form method="post" action="/ModelBinding/Update">
-    <input type="text" name="txtFirstName" value="@Model.FirstName" />
-    <input type="text" name="txtLastName" value="@Model.LastName" />
+    <input type="text" name="FirstName" value="@Model.FirstName" />
+    <input type="text" name="LastName" value="@Model.LastName" />
     <input type="submit" value="Update" />
 </form>
 
 <form method="post" action="/ModelBinding/Add">
-    <input type="text" name="txtFirstName" value="" />
-    <input type="text" name="txtLastName" value="" />
+    <input type="text" name="FirstName" value="" />
+    <input type="text" name="LastName" value="" />
     <input type="submit" value="Add" />
 </form>
+
+@using(var form = Html.BeginForm("AddToDb","Forms",FormMethod.Post))
+{
+    <div>
+    @Html.LabelFor(m => m.FirstName)
+    @Html.TextBoxFor(m => m.FirstName)
+    </div>
+
+    <div>
+    @Html.LabelFor(m => m.LastName)
+    @Html.TextBoxFor(m => m.LastName)
+    </div>
+
+    <input type="submit" value="Submit" />
+}

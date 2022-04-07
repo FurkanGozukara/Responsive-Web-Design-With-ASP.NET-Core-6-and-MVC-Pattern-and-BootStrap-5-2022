@@ -56,8 +56,8 @@ namespace lecture___4.Controllers
         {
             WebUser webUser = new WebUser();
 
-            webUser.FirstName = Request.Form["txtFirstName"];
-            webUser.LastName = Request.Form["txtLastName"];
+            webUser.FirstName = Request.Form["FirstName"];
+            webUser.LastName = Request.Form["LastName"];
 
 
             myContext.TblUsers.Add(webUser);
