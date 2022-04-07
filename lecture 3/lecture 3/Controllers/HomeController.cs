@@ -57,5 +57,10 @@ namespace lecture_3.Controllers
         {
             return ViewComponent("PriorityList");
         }
+
+        public IActionResult Clock()
+        {
+            return ViewComponent("Clock");
+        }
     }
 }

@@ -36,29 +36,12 @@ my view
 
  <div>
 
-     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ 
+
 
 <script>
 
-    jQuery.extend({
-    getValues: function(url) {
-        var result = null;
-        $.ajax({
-            url: url,
-            type: 'get',
-            async: true,
-            success: function(data) {
-                result = data;
-                $('main').append(result);
-            }
-        });
-       return result;
-    }
-});
-
 var results = $.getValues("/home/PriorityList");
-
- 
 
 
 </script>
