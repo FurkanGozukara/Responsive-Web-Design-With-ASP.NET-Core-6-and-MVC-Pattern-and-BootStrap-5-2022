@@ -37,7 +37,18 @@
         @Html.ValidationMessageFor(m => m.MailAddress)
     </div>
 
+    
+    <div>
+        @Html.LabelFor(m => m.MailAddressRepeated)
+        @Html.TextBoxFor(m => m.MailAddressRepeated)
+        @Html.ValidationMessageFor(m => m.MailAddressRepeated)
+    </div>
 
+        <div>
+        @Html.LabelFor(m => m.MemberId)
+        @Html.TextBoxFor(m => m.MemberId)
+        @Html.ValidationMessageFor(m => m.MemberId)
+    </div>
     <div>
            @Html.ValidationSummary()
     </div>

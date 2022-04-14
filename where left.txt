@@ -1,1 +1,3 @@
-https://asp.mvc-tutorial.com/models/data-annotations/
+
+
+https://asp.mvc-tutorial.com/models/custom-model-validation/

@@ -17,10 +17,17 @@ namespace lecture___4.DbModels
         [Display(Name = "Last Name")]
         new public string LastName { get; set; }
 
-        [Required(ErrorMessage = "You must enter a value for the Mail Address field!")]
+        [Required(ErrorMessage = "Email adresi lütfen giriniz!")]
         [EmailAddress(ErrorMessage = "Please enter a valid e-mail address!")]
+        [Compare("MailAddressRepeated")]
         [Display(Name = "Email")]
         new public string MailAddress { get; set; }
+        [Display(Name = "Repeat Email")]
+        new public string MailAddressRepeated { get; set; }
+
+        [RegularExpression("[a-z]{2}-[0-9]{4}-[0-9]{4}")]
+        [Display(Name = "Special Member ID")]
+        public string MemberId { get; set; }
 
         public WebUser()
         {
