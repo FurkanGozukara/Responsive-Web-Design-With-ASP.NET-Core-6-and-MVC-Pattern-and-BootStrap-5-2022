@@ -1,0 +1,125 @@
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\appsettings.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\lecture - 4.staticwebassets.runtime.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\lecture - 4.exe
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\lecture - 4.deps.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\lecture - 4.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\lecture - 4.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.csproj.AssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.RazorAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.RazorAssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\scopedcss\bundle\lecture - 4.styles.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\scopedcss\projectbundle\lecture - 4.bundle.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\refint\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\ref\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\efpt.config.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 4\lecture - 4\obj\Debug\net6.0\lecture - 4.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\appsettings.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\efpt.config.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\lecture - 4.staticwebassets.runtime.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\lecture - 4.exe
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\lecture - 4.deps.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\lecture - 4.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\lecture - 4.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.csproj.AssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.RazorAssemblyInfo.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.RazorAssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\scopedcss\bundle\lecture - 4.styles.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\scopedcss\projectbundle\lecture - 4.bundle.scp.css
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\refint\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.pdb
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\lecture - 4.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\obj\Debug\net6.0\ref\lecture - 4.dll
+C:\Users\Furkan Gözükara\Desktop\2022 mvc\lecture - 5\lecture - 4\bin\Debug\net6.0\Newtonsoft.Json.dll

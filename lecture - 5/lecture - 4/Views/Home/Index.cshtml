@@ -1,0 +1,60 @@
+﻿@using lecture___4
+
+@{
+    //ViewData["Title"] = "Home Page";
+    //Layout=null;
+}
+
+@model WebUser
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+<div>@PublicMethods.returnDate()</div>
+
+
+@using (var form = Html.BeginForm("AddToDb2", "Forms", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(m => m.FirstName)
+        @Html.TextBoxFor(m => m.FirstName)
+        @Html.ValidationMessageFor(m => m.FirstName)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.LastName)
+        @Html.TextBoxFor(m => m.LastName)
+        @Html.ValidationMessageFor(m => m.LastName)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.MailAddress)
+        @Html.TextBoxFor(m => m.MailAddress)
+        @Html.ValidationMessageFor(m => m.MailAddress)
+    </div>
+
+
+    <div>
+           @Html.ValidationSummary()
+    </div>
+    <input type="submit" value="Submit" />
+}
+
+
+@section Scripts{
+<script>
+    function test() {
+
+    }
+</script>
+}
+
+
+@section Footer{
+<p>special footer of index page</p>
+}
+
